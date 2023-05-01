@@ -4,4 +4,4 @@
 - 🔭 I’m currently working on Leetcode
 - 🌱 I’m currently learning: C, Cpp, DSA, HTML, CSS
 - 📫 How to reach me: Just mail to ramyas.aiml2022@citchennai.net
-- ⚡ Stuff I'm good at: Python, MySQL, Photoshop
+- ⚡ Stuff I'm good at: Python, MySQL
