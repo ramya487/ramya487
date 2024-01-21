@@ -1,7 +1,8 @@
-# <p align = "center"> Hi there 👋 This is Ramya </p>
-**<p align = "center"> A Tech Enthusiast looking to improve in the field of Software Engineering </p>**
+### :sparkles: Hi there This is Ramya
 
-- 🔭 I’m currently working to upgrade myself
-- 🌱 I’m currently learning: Cpp, DSA, Full Stack Development
-- 📫 How to reach me: Just mail to ramyas.aiml2022@citchennai.net
-- ⚡ Stuff I'm good at: Python, MySQL
+🔭 I’m currently working to upgrade myself <br>
+🌱 I’m currently learning: Cpp, DSA, Full Stack Development <br>
+📫 How to reach me: Just mail to ramyas.aiml2022@citchennai.net
+
+---
+[![](https://visitcount.itsvg.in/api?id=ramya487&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
