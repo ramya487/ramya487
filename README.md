@@ -1,8 +1,11 @@
-# Hello! :wave: This is Ramya
+<img width="2520" height="699" alt="github-header-banner" src="https://github.com/user-attachments/assets/df2bc523-095c-4f2d-abf2-cd96e48c7a13" />
 
 <br/>
 
-  - 🖥️ I am a passionate coder, aspiring to be a Software Developer
+<br/>
+
+  - 🖥️ Trying to be curious and productive
+  - 📝 Currently learning Design principles - tweaking with Next.js
   - 🌐 Open to collaborate on Software projects
   - 📫 How to reach me: ramyas.gwork@gmail.com
   <br/>
