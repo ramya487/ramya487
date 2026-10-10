@@ -1,16 +1,21 @@
-<!-- <img width="2520" height="699" alt="github-header-banner" src="https://github.com/user-attachments/assets/df2bc523-095c-4f2d-abf2-cd96e48c7a13" /> -->
+# Hey, I'm S Ramya 👋
 
-<br/>
+Passionate Developer, Thinking through the details so the end result feels effortless. Always learning, always making.
 
-<br/>
+---
 
-  - 🖥️ Trying to be curious and productive
-  - 📝 Currently learning Design principles - tweaking with Next.js
-  - 🌐 Open to collaborate on Software projects
-  - 📫 How to reach me: ramyas.gwork@gmail.com
-  <br/>
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C#, TypeScript, JavaScript, Java, SQL
+* **Backend & APIs:** FastAPI, ASP.NET Core, Node.js, Next.js, REST APIs
+* **Cloud & DevOps:** Microsoft Azure, Docker, Git, CI/CD
+* **Databases:** PostgreSQL, MongoDB
 
-  💼 LinkedIn: [here](https://www.linkedin.com/in/ramyas467/)
-<br/>
-<br/>
-> It ain't a good code, if it ain't going to break :P
+---
+
+### 🤝 Open to Collaboration
+Always excited to collaborate on:
+* **Backend & Cloud Systems:** High-throughput microservices, API architecture, and cloud-native solutions.
+* **Developer Productivity Tools:** Automation pipelines, PR reviewers, and workflow enhancements.
+* **Open-Source Initiatives:** Ready to build, review code, or optimize existing projects together.
+
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/ramyas467) • [Email](mailto:ramyas.gwork@gmail.com)
